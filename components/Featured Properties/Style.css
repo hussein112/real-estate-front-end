@@ -1,0 +1,12 @@
+.carousel img{
+    width: 500px;
+    height: 450px;
+}
+h4 a{
+    color: var(--pr) !important;
+}
+p{
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
